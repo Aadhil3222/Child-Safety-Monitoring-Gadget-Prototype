@@ -1,1 +1,2 @@
-# Child-Safety-Monitoring-Gadget-Prototype
+# Child-Safety-Monitoring-Gadjet-Prototype
+Child Safety Monitoring Gadjet And Notification
